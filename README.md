@@ -11,6 +11,14 @@
 ## -> Filmes
 ![preview](./img/img_3.jpg)
 
+
+## -> Perfil
+![preview](./img/img_4.jpg)
+
+
+## -> Adicionar Filmes
+![preview](./img/img_5.jpg)
+
 > Contexto
 
 Um site onde você pode criar seu usuário e cadastrar filmes a plataforma, assim como também você pode tecer críticas a filmes já adicionados por outras pessoas, podendo também dar sua nota do filme postado.
