@@ -86,8 +86,9 @@
 #main-container {
     background-color: #000;
     color: #FFF;
-    min-height: 65vh;
-    padding: 100px;
+    min-height: calc(100vh - 80px);
+    padding: 100px 100px 40px;
+    box-sizing: border-box;
 }
 
 .section-title {
